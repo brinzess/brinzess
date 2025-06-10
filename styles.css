@@ -1,0 +1,5 @@
+body { background: #ffe4e6; color: #333; font-family: Arial, sans-serif; margin: 0; }
+header, footer { background: #fff; color: #b8860b; padding: 1em; text-align: center; }
+nav { background: #fff; padding: 0.5em; text-align: center; }
+nav a { margin: 0 1em; color: #b8860b; text-decoration: none; }
+main { padding: 2em; max-width: 800px; margin: auto; }
